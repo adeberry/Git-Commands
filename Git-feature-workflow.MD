@@ -27,7 +27,7 @@ Create the pull request.
     Changes to be committed:
     Untracked files:
     ```
-    __DO NOT COMMIT THE CHANGES TO THE MAIN BRANCH__
+    __DO NOT EVER COMMIT CHANGES TO THE MAIN BRANCH__
 1. Make sure your repository is up-to-date with `origin`
     ```bash
     git checkout main
